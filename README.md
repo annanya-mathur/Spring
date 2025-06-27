@@ -10,6 +10,7 @@
 - The process of verifying user's  identity. (e.g. username and password)
 ##Authorization
 - The process of granting or denying access to specific resources or actions based on authenticated user's roles and permissions.
+  
 ##Dependency
 ```bash
 <dependency>
